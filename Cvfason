@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My CV</title>
+</head>
+<body>
+  <h1>Heydər Ələkbərov</h1>
+    <a href="https://ibb.co/kRw0dQ"><img src="https://thumb.ibb.co/kRw0dQ/IMG_0395.jpg" alt="IMG_0395" border="0"></a>
+  <!-- A section that describes the brown bear -->
+  <p>The brown bear (Ursus arctos) is native to parts of northern Eurasia and North America. Its conservation status is currently "Least Concern." There are many subspecies within the brown bear species, including the Atlas bear and the Himalayan brown bear.</p>
+  
+  <p>Doğulduğum yer və tarix:</p>
+  <ul>
+    <li>Bakı</li>
+    <li>Azərbaycan</li>
+    <li>01.01.1992</li>
+      </ul>
+
+   <p>Təhsilim:</p>
+   <ul>
+    <li>278 saylı orta məktəb</li>
+    <li>Eskişehir Anadolu Universiteti (Bitirməmişəm)</li>
+   </ul>
+
+  <p>Çalışdığım iş yerlərim:</p>
+  <ol>
+    <li>Tac.az Multi Portal 2007-2010</li>
+    <li>Khazz Group 2015-2016</li>
+    <li>Stingray Club , Pool Beach (Khazar İsland) 2016</li>
+    <li>Pixen Agency 2016-2017</li>
+  </ol>
+  <br>
+
+<h3>Sosial şəbəkələrdəki profillərim</h3>
+
+<a href="https://www.facebook.com/HeyderAlekber">Facebook</a><br>
+<a href="https://www.instagram.com/heyder_939/">İnstagram</a><br>
+<a href="https://github.com/heydaralekber">Github</a>
+
+
+</body> 
+</html>
